@@ -34,6 +34,13 @@
       "sourceScreenId": "app.tableviewadvanced.tableviewadvancedconfident",
       "sourceAppId": "universaltemplates",
       "model": "tableviewadvancedconfident"
+    },
+    {
+      "id": "formlargeclassic",
+      "name": "FormLarge-Classic",
+      "sourceScreenId": "app.formlarge.formlargeclassic",
+      "sourceAppId": "universaltemplates",
+      "model": "formlargeclassic"
     }
   ],
   "sourceAppId": "_blank",
