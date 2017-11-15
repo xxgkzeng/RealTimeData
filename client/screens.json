@@ -27,6 +27,13 @@
       "sourceScreenId": "app.login.loginclassic",
       "sourceAppId": "universaltemplates",
       "model": "loginclassic"
+    },
+    {
+      "id": "tableviewadvancedconfident",
+      "name": "TableView Advanced-Confident",
+      "sourceScreenId": "app.tableviewadvanced.tableviewadvancedconfident",
+      "sourceAppId": "universaltemplates",
+      "model": "tableviewadvancedconfident"
     }
   ],
   "sourceAppId": "_blank",

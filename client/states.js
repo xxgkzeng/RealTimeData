@@ -42,5 +42,14 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
+    }).state('app.tableviewadvancedconfident', {
+        views: {
+            app: {
+                controller: 'app_tableviewadvancedconfident',
+                templateProvider: function (app) {
+                    return app.templateProvider('app.tableviewadvancedconfident');
+                }
+            }
+        }
     });
 });
