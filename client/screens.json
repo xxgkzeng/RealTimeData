@@ -1,11 +1,11 @@
 {
   "id": "app",
   "name": "realtimedata",
-  "startScreen": "app.blank",
+  "startScreen": "app.mainpage",
   "screens": [
     {
-      "id": "blank",
-      "name": "BLANK",
+      "id": "mainpage",
+      "name": "Mainpage",
       "sourceAppId": "_blank",
       "sourceScreenId": "app.blank"
     },
