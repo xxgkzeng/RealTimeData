@@ -22,7 +22,9 @@
         "action": [
           "submit"
         ]
-      }
+      },
+      "selector": "#txtPWD",
+      "control": "text"
     },
     "errorMessage": {
       "type": "string",
