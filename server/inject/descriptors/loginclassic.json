@@ -45,6 +45,10 @@
       },
       "selector": "#btnAlert",
       "control": "action.button"
+    },
+    "isExist": {
+      "type": "action",
+      "control": "exists"
     }
   },
   "connect": []
