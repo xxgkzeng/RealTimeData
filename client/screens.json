@@ -34,6 +34,13 @@
       "sourceScreenId": "app.tableviewadvanced.tableviewadvancedconfident",
       "sourceAppId": "universaltemplates",
       "model": "tableviewadvancedconfident"
+    },
+    {
+      "id": "formlargecool",
+      "name": "FormLarge-Cool",
+      "sourceScreenId": "app.formlarge.formlargecool",
+      "sourceAppId": "universaltemplates",
+      "model": "formlargecool"
     }
   ],
   "sourceAppId": "_blank",

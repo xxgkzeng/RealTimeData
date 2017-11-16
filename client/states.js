@@ -51,5 +51,14 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
+    }).state('app.formlargecool', {
+        views: {
+            app: {
+                controller: 'app_formlargecool',
+                templateProvider: function (app) {
+                    return app.templateProvider('app.formlargecool');
+                }
+            }
+        }
     });
 });
