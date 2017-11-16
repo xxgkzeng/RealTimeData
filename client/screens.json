@@ -4,6 +4,13 @@
   "startScreen": "app.mainpage",
   "screens": [
     {
+      "id": "loginclassic",
+      "name": "Login-Classic",
+      "sourceScreenId": "app.login.loginclassic",
+      "sourceAppId": "universaltemplates",
+      "model": "loginclassic"
+    },
+    {
       "id": "mainpage",
       "name": "Mainpage",
       "sourceAppId": "_blank",
@@ -20,13 +27,6 @@
       "name": "multiselect",
       "sourceAppId": "_blank",
       "sourceScreenId": "app.multiselect"
-    },
-    {
-      "id": "loginclassic",
-      "name": "Login-Classic",
-      "sourceScreenId": "app.login.loginclassic",
-      "sourceAppId": "universaltemplates",
-      "model": "loginclassic"
     },
     {
       "id": "tableviewadvancedconfident",
