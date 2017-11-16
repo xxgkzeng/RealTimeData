@@ -51,12 +51,12 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
-    }).state('app.formlargecool', {
+    }).state('app.addform', {
         views: {
             app: {
-                controller: 'app_formlargecool',
+                controller: 'app_addform',
                 templateProvider: function (app) {
-                    return app.templateProvider('app.formlargecool');
+                    return app.templateProvider('app.addform');
                 }
             }
         }

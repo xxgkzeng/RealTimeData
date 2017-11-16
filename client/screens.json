@@ -36,8 +36,8 @@
       "model": "tableviewadvancedconfident"
     },
     {
-      "id": "formlargecool",
-      "name": "FormLarge-Cool",
+      "id": "addform",
+      "name": "AddForm",
       "sourceScreenId": "app.formlarge.formlargecool",
       "sourceAppId": "universaltemplates",
       "model": "formlargecool"
