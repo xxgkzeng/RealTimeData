@@ -42,7 +42,9 @@
         "password": {
           "type": "string"
         }
-      }
+      },
+      "selector": "#btnAlert",
+      "control": "action.button"
     }
   },
   "connect": []
